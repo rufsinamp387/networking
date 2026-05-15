@@ -4,6 +4,6 @@
 
    Subnets use IP addresses in three different ways:
   
-  Identify the network address
-  Identify the host address
-  Identify the default gateway
+ - Identify the network address
+ - Identify the host address
+ - Identify the default gateway
