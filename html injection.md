@@ -1,4 +1,5 @@
 HTML INJECTION
+
 HTML Injection is a client-side security vulnerability that occurs when a web application accepts user input and renders it directly onto a webpage without proper validation or escaping. 
 This allows attackers to manipulate the visible structure and layout of the page by introducing arbitrary HTML tags
 
